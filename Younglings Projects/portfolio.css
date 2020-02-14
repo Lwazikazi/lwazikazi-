@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+  color:aquamarine;
+  margin: 0;
+}
+
+  nav ul {
+  display: inline;
+  float: left;
+  }
+
+nav ul li{
+   display: inline-block;
+   list-style-type: none;
+   color: seashell;
+   float: left;
+   margin-left: 10px;
+   padding: 10px;
+}
+
+nav ul li{
+    color: seashell;
+    text-decoration: none;
+}
+
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+}
